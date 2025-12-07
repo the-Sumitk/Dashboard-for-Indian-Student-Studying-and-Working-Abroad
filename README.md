@@ -84,4 +84,7 @@ In short, it turns complex migration data into **simple, visual, and actionable 
 
 ---
 
+## 📸 Dashboard Preview 
+https://github.com/the-Sumitk/Dashboard-for-Indian-Student-Studying-and-Working-Abroad/blob/main/Snapshot%20of%20the%20Dashboard.png
+
   
